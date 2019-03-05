@@ -1,0 +1,22 @@
+{
+  "name": "volga-fluger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pa2tie/volga-fluger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pa2tie/volga-fluger/issues"
+  },
+  "homepage": "https://github.com/pa2tie/volga-fluger#readme",
+  "dependencies": {
+    "serve": "^10.1.2"
+  }
+}
